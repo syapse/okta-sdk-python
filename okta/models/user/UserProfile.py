@@ -35,7 +35,7 @@ class UserProfile:
 
         self.mobilePhone = None  # str
         
-       self.title = None
+        self.title = None
 
         self.manager = None
 
